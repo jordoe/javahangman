@@ -1,0 +1,83 @@
+#titulo {
+	margin-left: 140px;
+}
+
+#game-container {
+	float: left;
+	margin-left: 15px;
+	width: 400px;
+}
+
+#gameplay {
+	border: 1px solid #CCCCCC;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	height: 300px;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 100%;
+}
+
+#console-container {
+	float: left;
+	margin-left: 15px;
+	width: 250px;
+}
+
+#console {
+	border: 1px solid #CCCCCC;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	height: 200px;
+	overflow-y: scroll;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 100%;
+}
+
+#players-container {
+	position: absolute;
+    left: 438px;
+    top: 250px;
+}
+
+#play {
+	position: absolute;
+    left: 22px;
+    top: 350px;
+}
+
+#pinput {	
+	width: 200px;
+}
+
+#create-text {
+	position: absolute;
+    left: 22px;
+    top: 377px;
+	
+}
+
+#inputname {
+	position: absolute;
+    left: 22px;
+    top: 405px;
+}
+
+#join-text {
+	position: absolute;
+    left: 22px;
+    top: 435px;
+	
+}
+
+#inputname-join {
+	position: absolute;
+    left: 22px;
+    top: 465px;
+}
+
+#joinput {
+	width: 170px;
+}
+
